@@ -1,0 +1,238 @@
+[
+
+{
+
+       "event": "First Day of Classes",
+       "date":  "August 31, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Labor Day Weekend - No Classes",
+       "date":  "September 5, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Last Day to Add a Course",
+       "date":  "September 14, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Last Day to Drop a Course",
+       "date":  "September 28, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Open Planning Begins for Spring 2021",
+       "date":  "October 26, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Last Day to Withdraw",
+       "date":  "November 2, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Election Day No Classes",
+       "date":  "November 3, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Graduate Registration begins for Spring 21",
+       "date":  "November 11, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Undergraduate Registration begins for Spring 21",
+       "date":  "November 13, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Last day of in person instruction",
+       "date":  "November 24, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Thanksgiving Break No Classes",
+       "date":  "November 25, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Residence halls closed for the fall semester",
+       "date":  "November 25, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Make Up/Study Day",
+       "date":  "December 14, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "Online/remote final exam period begin",
+       "date":  "December 15, 2020",
+       "term":  "Fall 2020"
+    },
+{
+
+       "event": "First Day of Classes Intersession",
+       "date":  "January 4, 2021",
+       "term":  "Intercession 2021"
+    },
+{
+
+       "event": "Martin Luther King Junior Birthday No Classes",
+       "date":  "January 18, 2021",
+       "term":  "Intercession 2021"
+    },
+{
+
+       "event": "Last Day of Classes Intersession",
+       "date":  "January 22, 2021",
+       "term":  "Intercession 2021"
+    },
+{
+
+       "event": "First Day of Classes Spring",
+       "date":  "January 26, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Last Day to Add a Course",
+       "date":  "February 8, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Last Day to Process Course Section Change",
+       "date":  "February 23, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "First Day of Open Planning for Sum and Fall 2021",
+       "date":  "March 8, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "No Classes, Spring Mini Break",
+       "date":  "March 10, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "No Classes, Spring Mini Break",
+       "date":  "March 20, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "No Classes, Spring Mini Break",
+       "date":  "March 21, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Registration begins for Summer 21",
+       "date":  "March 22, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Last Day to Withdraw",
+       "date":  "March 30, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Graduate registration begins for Fall 21",
+       "date":  "March 31, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "No Classes, Spring Mini Break",
+       "date":  "April 1, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Undergraduate registration begins for Fall 21",
+       "date":  "April 5, 2020",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "No Classes, Spring Mini Break",
+       "date":  "April 16, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Research and Creative Works Conference No Classes",
+       "date":  "April 27, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "No Classes, Spring Mini Break",
+       "date":  "May 3, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Makeup/Study Day No classes",
+       "date":  "May 11, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Makeup/Study Day No classes",
+       "date":  "May 12, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Makeup/Study Day No classes",
+       "date":  "May 13, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Final Exam period starts",
+       "date":  "May 14, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Last Day of Finals Spring 2021",
+       "date":  "May 20, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Doctoral Hooding",
+       "date":  "May 21, 2021",
+       "term":  "Spring 2021"
+    },
+{
+
+       "event": "Commencement Ceremony",
+       "date":  "May 24, 2021",
+       "term":  "Spring 2021"
+    }
+
+ ]

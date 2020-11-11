@@ -1,0 +1,75 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "adelphi academic calendar",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "Help",
+                        "I need help"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "EventDateIntent",
+                    "slots": [
+                        {
+                            "name": "eventName",
+                            "type": "AMAZON.SearchQuery"
+                        }
+                    ],
+                    "samples": [
+                        "When are {eventName}",
+                        "What date was {eventName} ",
+                        "When is the {eventName}",
+                        "When was the {eventName}",
+                        "When is {eventName}",
+                        "When was {eventName}"
+                    ]
+                },
+                {
+                    "name": "TermIntent",
+                    "slots": [
+                        {
+                            "name": "event",
+                            "type": "AMAZON.EventType"
+                        }
+                    ],
+                    "samples": [
+                        "what term is {event}",
+                        "what term is {event} in"
+                    ]
+                },
+                {
+                    "name": "EventNameIntent",
+                    "slots": [
+                        {
+                            "name": "eventDate",
+                            "type": "AMAZON.DATE"
+                        }
+                    ],
+                    "samples": [
+                        "What events are happening on {eventDate}",
+                        "What is going on {eventDate}",
+                        "What's happening {eventDate}",
+                        "What is happening {eventDate}",
+                        "What's going on {eventDate} "
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
